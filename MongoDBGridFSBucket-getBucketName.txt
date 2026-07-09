@@ -1,7 +1,7 @@
 ========================================
 MongoDB\\GridFS\\Bucket::getBucketName()
 ========================================
-
+ 
 .. default-domain:: mongodb
 
 .. contents:: On this page
